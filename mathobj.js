@@ -18,5 +18,5 @@ z = Math.pow(7,9);
 z = Math.min(1,2,3,4,5,6,7,8,9);
 z = Math.max(1,2,3,4,5,6,7,8,9);
 z = Math.random();
-z = Math.round(50+(100-50)*Math.random());
+z = Math.round(50+(100-50)*Math.random());//adding range
 console.log(z);
