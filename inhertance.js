@@ -21,7 +21,7 @@ console.log(`hello world`);
 // console.log(myObj);
 // console.log(myObj.slogan());
 
-// exercise : create an object named `food` and inherit it in object named `cake`
+
 
 function employee(Name, salary, experience){
 this.myName = Name;
