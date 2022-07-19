@@ -1,0 +1,4 @@
+this is demo data :
+name : sohail Shaikh
+age : 19
+education : done
