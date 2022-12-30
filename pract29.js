@@ -5,7 +5,7 @@ let lastName = `shaikh`;
 let sentence = `hey there I am sohail`
 
 console.log(firstName + ` `+lastName)//concatanation
-console.log(firstName.concat(` loves taslim`))
+console.log(firstName.concat(` and taslim`))
 
 lowerCase = firstName.toUpperCase();
 console.log(lowerCase);
